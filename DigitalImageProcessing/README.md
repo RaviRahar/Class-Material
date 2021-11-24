@@ -1,7 +1,8 @@
 # Class Lectures
 
-- [Book - FDIP][BookLink]  
-- [Book - AJDIP][BookLink]  
+- [Book Download - FDIP][BookLink]  
+- [Book Download - AJDIP][BookLink]  
+
 - Lectures:  
 
     - [Lecture 1 ~][L1]
@@ -16,9 +17,10 @@
 
 **Note:**   
 - ~ denotes lecture notes are yet not available
+- Books too large to open online
 
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/FDIP.pdf
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/AJDIP.pdf
+[BookLink]: https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/FDIP.pdf
+[BookLink]: https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/AJDIP.pdf
 
 [L1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/L1.pdf
 [L2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/DigitalImageProcessing/L2.pdf
