@@ -3,7 +3,7 @@ Notes for Semester 5
 
 | Subject                     | Notes                    | Material Download                                          |
 | --------------------------- | ------------------------ | ---------------------------------------------------------- |
-| Machine Learning            | [ClassResources][MlRes]  | [Book ~][MlBook]                                           |
+| Machine Learning            | [ClassResources][MlRes]  | [Book][MlBook]                                           |
 | Digital Image Processing    | [ClassResources][DipRes] | [Book(FDIP)][DipBookFdip] <br> [Book(AJDIP)][DipBookAjdip] |
 | Operating Systems           | [ClassResources][OsRes]  | [Book][OsBook]                                             | 
 | Object Oriented Programming | [ClassResources][OopRes] | [Book ~][OopBook]                                          |

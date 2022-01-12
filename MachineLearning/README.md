@@ -11,7 +11,6 @@
     - Midsem II
         - [Lecture 4][TVL4]
         - [Lecture 5][TVL5]
-        - [Lecture 6][TVL6]
 
     - Assignments
         - [Assignment 1][TVA1]
@@ -20,9 +19,9 @@
 
     - Lectures
         - Midsem I
-            - [Lecture 1 ~][PML1]
-            - [Lecture 2 ~][PML2]
-            - [Lecture 3 ~][PML3]
+            - [Lecture 1][PML1]
+            - [Lecture 2][PML2]
+            - [Lecture 3][PML3]
 
         - Midsem II
             - [Lecture 4 and 5][PML4and5]
@@ -71,48 +70,48 @@
 - ~ denotes lecture notes are yet not available
 - Notebooks are added just to give glimpse of code. To run download dataset form classroom and change paths accordingly in notebooks
 
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/Book.pdf
+[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/ML.pdf
 
-[TVL1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL1.pdf
-[TVL2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL2.pdf
-[TVL3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL3.pdf
-[TVL4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL4.pdf
-[TVL5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL5.pdf
-[TVL6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVL6.pdf
+[TVL1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL1.pdf
+[TVL2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL2.pdf
+[TVL3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL3.pdf
+[TVL4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL4.pdf
+[TVL5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL5.pdf
+[TVL6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVL6.pdf
 
-[TVA1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TVA1.pdf
+[TVA1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/TV/TVA1.pdf
 
-[PML]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML.pdf
+[PML]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML.pdf
 
-[PML1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML1.pdf
-[PML2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML2.pdf
-[PML3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML3.pdf
-[PML4and5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML4and5.pdf
-[PML6and7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML6and7.pdf
-[PML8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML8.pdf
-[PML9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML9.pdf
-[PML5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML10.pdf
-[PML7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PML11.pdf
+[PML1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML1.pdf
+[PML2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML2.pdf
+[PML3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML3.pdf
+[PML4and5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML4and5.pdf
+[PML6and7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML6and7.pdf
+[PML8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML8.pdf
+[PML9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML9.pdf
+[PML5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML10.pdf
+[PML7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML11.pdf
 
-[PMLab11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab11.pdf
-[PMLab12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab12.pdf
-[PMLab13]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab13.ipynb
-[PMLab21]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab21.pdf
-[PMLab22]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab22.pdf
-[PMLab23]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab23.ipynb
-[PMLab24]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab24.ipynb
-[PMLab31]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab31.pdf
-[PMLab32]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab32.pdf
-[PMLab33]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab33.ipynb
-[PMLab41]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab41.pdf
-[PMLab42]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab42.pdf
-[PMLab43]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab43.ipynb
-[PMLab51]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab51.pdf
-[PMLab52]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab52.pdf
-[PMLab53]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab53.ipynb
-[PMLab61]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab61.pdf
-[PMLab62]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab62.pdf
-[PMLab63]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab63.ipynb
-[PMLab64]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PMLab64.ipynb
+[PMLab11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab11.pdf
+[PMLab12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab12.pdf
+[PMLab13]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab13.ipynb
+[PMLab21]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab21.pdf
+[PMLab22]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab22.pdf
+[PMLab23]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab23.ipynb
+[PMLab24]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab24.ipynb
+[PMLab31]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab31.pdf
+[PMLab32]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab32.pdf
+[PMLab33]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab33.ipynb
+[PMLab41]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab41.pdf
+[PMLab42]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab42.pdf
+[PMLab43]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab43.ipynb
+[PMLab51]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab51.pdf
+[PMLab52]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab52.pdf
+[PMLab53]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab53.ipynb
+[PMLab61]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab61.pdf
+[PMLab62]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab62.pdf
+[PMLab63]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab63.ipynb
+[PMLab64]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab64.ipynb
 
-[PME1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PME1.pdf
+[PME1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PME1.pdf
