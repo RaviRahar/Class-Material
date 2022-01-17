@@ -3,25 +3,26 @@
 - [Book ~][BookLink]  
 - Lectures:  
 
-    - [Lecture 1 ][L1]
-    - [Lecture 2 ][L2]
-    - [Lecture 3 ][L3]
-    - [Lecture 4 ~][L4]
-    - [Lecture 5 ~][L5]
-    - [Lecture 6 ~][L6]
-    - [Lecture 7 ~][L7]
-    - [Lecture 8 ~][L8]
-    - [Lecture 9 ~][L9]
+    - Midsem I
+        - [Lecture 1][L1] - Introduction to OOP
+        - [Lecture 2][L2] - Introduction to C++
+        - [Lecture 3][L3] - Classes and Objects
+
+    - Midsem II
+        - [Lecture 4 ~][L4] - Constructors and Destructors
+        - [Lecture 5 ~][L5] - Operator Overloading
+        - [Lecture 6][L6] - Inheritance
+        - [Lecture 7][L7] - Polymorphism (Abstract Classes)
+        - [Lecture 8][L8] - Exception Handling
 
 - Lab Material:
-    - [Lab 1 ][Lab1]
-    - [Lab 2 ~][Lab2]
-    - [Lab 3 ~][Lab3]
-    - [Lab 4 ~][Lab4]
-    - [Lab 5 ~][Lab5]
-    - [Lab 6 ~][Lab6]
+    - [Lab 1][Lab1]
+
+- Assignments: 
+    - [Assignment 1][As1]
 
 **Note:**  
+- Some notes were not available in pdf, only videos. Check them on classroom.
 - ~ denotes lecture notes are yet not available  
 - [Extra Book: A tour of C++][BookLink]  
 
@@ -38,8 +39,4 @@
 [L9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L9.pdf
 
 [Lab1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab1.pdf
-[Lab2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab2.pdf
-[Lab3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab3.pdf
-[Lab4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab4.pdf
-[Lab5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab5.pdf
-[Lab6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab6.pdf
+[As1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/As1.pdf
