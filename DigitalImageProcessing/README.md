@@ -4,14 +4,13 @@
 - [Book Download - AJDIP][BookLink]  
 
 - Lectures:  
-
     - Midsem I
         - [Lecture 1][L1]
         - [Lecture 2][L2]
         - [Lecture 3][L3]
         - [Lecture 1 to 3][L1to3]
 
-    -Midsem II
+    - Midsem II
         - [Lecture 4][L4]
         - [Lecture 5][L5]
         - [Lecture 6 ~][L6]
