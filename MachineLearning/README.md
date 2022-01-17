@@ -90,8 +90,8 @@
 [PML6and7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML6and7.pdf
 [PML8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML8.pdf
 [PML9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML9.pdf
-[PML5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML10.pdf
-[PML7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML11.pdf
+[PML10]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML10.pdf
+[PML11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PML11.pdf
 
 [PMLab11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab11.pdf
 [PMLab12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/MachineLearning/PM/PMLab12.pdf
