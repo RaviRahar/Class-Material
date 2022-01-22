@@ -3,14 +3,23 @@
 - [Book][BookLink]
 
 - Lectures:
-    - [Lecture 1 ~][L1]
-    - [Lecture 2 ~][L2]
-    - [Lecture 3 ~][L3]
-    - [Lecture 4 ~][L4]
-    - [Lecture 5 ~][L5]
-    - [Lecture 6 ~][L6]
-    - [Lecture 7 ~][L7]
-    - [Lecture 8 ~][L8]
+    - [Lecture 1][L1] - Bash Shell
+    - [Lecture 2][L2] - Batch Processing
+    - [Lecture 3][L3] - I/O Redirection
+    - [Lecture 4][L4] - Processes(process states and stack, fork, wait, exec)
+    - [Lecture 5][L5] - CPU Scheduling
+    - [Lecture 6][L6] - Signals (Into to IPC)
+    - [Lecture 7][L7] - Pipes (IPC)
+    - [Lecture 8][L8] - Message Queues (IPC)
+    - [Lecture 9][L9] - Shared Memory
+    - Read threads from ppts below, same was shared in class
+    - [Lecture 11][L10] - Process Synchronization (Basics and Semaphores)
+    - [Lecture 10][L11] - Mutex and Condition variables
+    - [Lecture 12][L12] - Deadlock
+    - [Lecture 13][L13] - Disk Scheduling
+    - [Lecture 14][L14] - Memory Management
+    - [Lecture 15][L15] - Virtual Memory
+    - [Lecture 16][L16] - Memory Mapping
 
 - Lab Material:
 
@@ -38,13 +47,13 @@
         - [Processes ][LS4]
         - [Threads & Concurrency ][LS5]
         - [CPU Scheduling ][LS6]
-        - [Advanced CPU Scheduling ][LS7]
+        - [Advanced cPU Scheduling ][LS7]
 
     - Part 3: Process Synchronization
 
         - [synchronization-tools ][LS8]
         - [Synchronization Examples ][LS9]
-        - [Advanced Synchronization Examples ][LS10]
+        - [Advanced synchronization Examples ][LS10]
         - [Deadlocks ][LS11]
 
     - Part 4: Memory Management
@@ -94,6 +103,14 @@
 [L6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L6.pdf
 [L7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L7.pdf
 [L8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L8.pdf
+[L9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L9.pdf
+[L10]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L10.pdf
+[L11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L11.pdf
+[L12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L12.pdf
+[L13]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L13.pdf
+[L14]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L14.pdf
+[L15]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L15.pdf
+[L16]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L16.pdf
 
 [Lab1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab1.pdf
 [Lab2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab2.pdf
