@@ -32,8 +32,8 @@
         - [Lab 4][Lab4]
         - [Lab 5][Lab5]
         - [Lab 6][Lab6]
-        - [Lab 7][Lab6]
-        - [Lab 8][Lab6]
+        - [Lab 7][Lab7]
+        - [Lab 8][Lab8]
 
 - Lectures Slides:  
     - Part 1: Overview
