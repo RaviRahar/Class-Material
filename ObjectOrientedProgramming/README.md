@@ -14,6 +14,9 @@
         - [Lecture 6][L6] - Inheritance
         - [Lecture 7][L7] - Polymorphism (Abstract Classes)
         - [Lecture 8][L8] - Exception Handling
+        - [Lecture 9][L9] - Templates
+        - [Lecture 10][L10] - Managing Console I/O Operations
+        - [Lecture 11][L10] - File Handling
 
 - Lab Material:
     - [Lab 1][Lab1]
@@ -37,6 +40,8 @@
 [L7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L7.pdf
 [L8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L8.pdf
 [L9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L9.pdf
+[L10]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L10.pdf
+[L11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/L11.pdf
 
 [Lab1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/Lab1.pdf
 [As1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/ObjectOrientedProgramming/As1.pdf
