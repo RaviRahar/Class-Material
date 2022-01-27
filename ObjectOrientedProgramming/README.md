@@ -16,7 +16,7 @@
         - [Lecture 8][L8] - Exception Handling
         - [Lecture 9][L9] - Templates
         - [Lecture 10][L10] - Managing Console I/O Operations
-        - [Lecture 11][L10] - File Handling
+        - [Lecture 11][L11] - File Handling
 
 - Lab Material:
     - [Lab 1][Lab1]
