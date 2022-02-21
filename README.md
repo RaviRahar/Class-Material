@@ -1,4 +1,3 @@
-# Notes
 - [Semester 5][Sem5]
 - [Semester 6][Sem6]
 
@@ -14,5 +13,5 @@
 - Do not change readmes(can change link in case of a book but not its structure), links will get activated as soon as you add the file with correct naming scheme.
 
 
-[Sem5]: https://github.com/RaviRahar/Notes/tree/master/Sem5
-[Sem6]: https://github.com/RaviRahar/Notes/tree/master/Sem6
+[Sem5]: https://github.com/RaviRahar/Notes/tree/master/Sem5/README.md
+[Sem6]: https://github.com/RaviRahar/Notes/tree/master/Sem6/README.md

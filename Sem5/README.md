@@ -11,17 +11,6 @@ Notes for Semester 5
 | Technical Writing           | [ClassResources][TwRes]  | [Book ~][TwBook]                                           |
 
 
-**Notes:**  
-- ~ means that resource is not available
-- Books too large to open online will be downloaded
-- Google Docs is used to display pdfs/ppts/docs/etc. Clone repository and download if not comfortable with google.
-
-## Contribution
-- Add lecture if not available in that classes' folder
-- Follow naming scheme: L1.pdf - Lecture 1, Lab1.pdf - Lab 1
-- Do not change readmes(can change link in case of a book but not its structure), links will get activated as soon as you add the file with correct naming scheme.
-
-
 [MlRes]: https://github.com/RaviRahar/Notes/tree/master/Sem5/MachineLearning#Class-Lectures
 [MlBook]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/MachineLearning/ML.pdf
 
