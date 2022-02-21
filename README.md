@@ -13,5 +13,5 @@
 - Do not change readmes(can change link in case of a book but not its structure), links will get activated as soon as you add the file with correct naming scheme.
 
 
-[Sem5]: https://github.com/RaviRahar/Notes/tree/master/Sem5/README.md
-[Sem6]: https://github.com/RaviRahar/Notes/tree/master/Sem6/README.md
+[Sem5]: https://github.com/RaviRahar/Notes/tree/master/Sem5#Notes
+[Sem6]: https://github.com/RaviRahar/Notes/tree/master/Sem6#Notes
