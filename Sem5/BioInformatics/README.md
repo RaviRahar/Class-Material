@@ -17,7 +17,7 @@
 **Note:**  
 - ~ denotes lecture notes are yet not available
 
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/BioInformatics/
+[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/BioInformatics/
 
 [vl1]: https://drive.google.com/file/d/1Hc2AS48ql122pguWCXkBa9xEQiZrKG37/view?usp=sharing
 [vl2]: https://drive.google.com/file/d/1QkWXmmYFwHtN9Rufi-DTpsSo_vSsrk7B/view?usp=sharing
@@ -25,6 +25,6 @@
 [vl4]: https://drive.google.com/file/d/1Gcm3vsUvpwKA_MA4NcprWH13SLhSL4uU/view?usp=sharing
 [vl5]: https://drive.google.com/file/d/1R2jynF1-KiMGCJq8hZMpuFaOuMNYAbwh/view?usp=sharing
 
-[L1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/BioInformatics/L1.pdf
-[L2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/BioInformatics/L2.pdf
-[L3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/BioInformatics/L3.pdf
+[L1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/BioInformatics/L1.pdf
+[L2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/BioInformatics/L2.pdf
+[L3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/BioInformatics/L3.pdf

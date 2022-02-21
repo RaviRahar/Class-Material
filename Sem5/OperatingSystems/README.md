@@ -91,35 +91,35 @@
 - ~ denotes lecture notes are yet not available  
 - [Download slides from original source][SlidesLink]  
 
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/OperatingSystems.pdf
+[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/OperatingSystems.pdf
 [SlidesLink]: https://codex.cs.yale.edu/avi/courses/CS-423/slides/index.html
 
 
-[L1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L1.pdf
-[L2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L2.pdf
-[L3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L3.pdf
-[L4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L4.pdf
-[L5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L5.pdf
-[L6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L6.pdf
-[L7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L7.pdf
-[L8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L8.pdf
-[L9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L9.pdf
-[L10]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L10.pdf
-[L11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L11.pdf
-[L12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L12.pdf
-[L13]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L13.pdf
-[L14]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L14.pdf
-[L15]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L15.pdf
-[L16]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/L16.pdf
+[L1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L1.pdf
+[L2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L2.pdf
+[L3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L3.pdf
+[L4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L4.pdf
+[L5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L5.pdf
+[L6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L6.pdf
+[L7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L7.pdf
+[L8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L8.pdf
+[L9]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L9.pdf
+[L10]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L10.pdf
+[L11]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L11.pdf
+[L12]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L12.pdf
+[L13]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L13.pdf
+[L14]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L14.pdf
+[L15]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L15.pdf
+[L16]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/L16.pdf
 
-[Lab1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab1.pdf
-[Lab2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab2.pdf
-[Lab3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab3.pdf
-[Lab4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab4.pdf
-[Lab5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab5.pdf
-[Lab6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab6.pdf
-[Lab7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab7.pdf
-[Lab8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/OperatingSystems/Lab8.pdf
+[Lab1]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab1.pdf
+[Lab2]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab2.pdf
+[Lab3]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab3.pdf
+[Lab4]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab4.pdf
+[Lab5]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab5.pdf
+[Lab6]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab6.pdf
+[Lab7]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab7.pdf
+[Lab8]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem5/OperatingSystems/Lab8.pdf
 
 
 [LS1]: https://docs.google.com/viewer?url=https://codex.cs.yale.edu/avi/courses/CS-423/slides/PPTX-dir/ch1.pptx
