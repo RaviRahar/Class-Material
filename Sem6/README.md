@@ -13,10 +13,10 @@ Notes for Semester 6
 [CgRes]: https://github.com/RaviRahar/Notes/tree/master/Sem6/ComputerGraphics#Class-Lectures
 [AiRes]: https://github.com/RaviRahar/Notes/tree/master/Sem6/ArtificialIntelligence#Class-Lectures 
 [CnRes]: https://github.com/RaviRahar/Notes/tree/master/Sem6/ComputerNetworks#Class-Lectures 
-[IctRes]: https://github.com/RaviRahar/Notes/tree/master/Sem6/IntoductionToCyberThreats#Class-Lectures
+[IctRes]: https://github.com/RaviRahar/Notes/tree/master/Sem6/IntroductionToCyberThreats#Class-Lectures
 
 [TocBook]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/TheoryOfComputation/ML.pdf
 [CgBook]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/ComputerGraphics/ML.pdf 
 [AiBook]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/ArtificialIntelligence/ML.pdf 
 [CnBook]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/ComputerNetworks/ML.pdf 
-[IctBook]: https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/DigitalImageProcessing/CyberSecurity.pdf
+[IctBook]: https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/IntroductionToCyberThreats.pdf
