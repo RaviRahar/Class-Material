@@ -1,6 +1,6 @@
 # Class Lectures
 
-- [Book ~][BookLink]  
+- [Book][BookLink]  
 - Lectures:  
 
     - [Lecture 1 ~][L1]
@@ -16,7 +16,7 @@
 **Note:**  
 - ~ denotes lecture notes are yet not available
 
-[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/IntroductionToCyberThreats/
+[BookLink]: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/IntroductionToCyberThreats/Book.pdf
 
 [L1]:https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/IntroductionToCyberThreats/L1.pdf
 [L2]:https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RaviRahar/Notes/master/Sem6/IntroductionToCyberThreats/L2.pdf
